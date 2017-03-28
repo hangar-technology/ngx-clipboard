@@ -1,8 +1,6 @@
 {
   "name": "ngx-clipboard",
   "description": "angular 2 clipboard",
-  "main": "./dist/bundle/ngxClipboard.umd.min.js",
-  "module": "./dist/index.js",
   "author": {
     "name": "Sam Lin",
     "email": "maxisam@gmail.com"
